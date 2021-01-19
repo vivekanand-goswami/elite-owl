@@ -2,7 +2,7 @@
 title: Children on Street
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/infographics.jpeg
+thumb_image: /images/13.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: /images/infographics.jpeg
 image_alt: 'White, black, and red shoe sole'
