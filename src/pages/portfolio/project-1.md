@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/infographics.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: /images/infographics.jpeg
 image_alt: 'White, black, and red shoe sole'
 template: project
 ---
