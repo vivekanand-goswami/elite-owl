@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/6c33d255872005.Y3JvcCw0NTU5LDM1NjksMjgyNiw0NzI.png
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: /images/rainy-maple.png
 image_alt: A table tennis racket on a pink background
 template: project
 ---
