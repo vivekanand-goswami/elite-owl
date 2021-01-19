@@ -2,7 +2,7 @@
 title: Brand Identity
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: /images/6c33d255872005.Y3JvcCw0NTU5LDM1NjksMjgyNiw0NzI.png
+thumb_image: /images/c80e6c55872051.Y3JvcCw2ODcsNTM4LDI1NCwzNTg.png
 thumb_image_alt: A table tennis racket on a pink background
 image: /images/rainy-maple.png
 image_alt: A table tennis racket on a pink background
