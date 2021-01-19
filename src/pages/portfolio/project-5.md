@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
+image: /images/1add2d56635785.59b6cebf25af6.png
 image_alt: A white gamepad on a green background
 template: project
 ---
