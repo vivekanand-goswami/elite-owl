@@ -2,7 +2,7 @@
 title: Y N Lenz
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: /images/10.jpg
+thumb_image: /images/Stationery Mock-Up-1.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
