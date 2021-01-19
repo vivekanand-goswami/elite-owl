@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Brand Identity
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/6c33d255872005.Y3JvcCw0NTU5LDM1NjksMjgyNiw0NzI.png
