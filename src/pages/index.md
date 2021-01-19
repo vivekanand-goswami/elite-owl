@@ -10,7 +10,7 @@ sections:
       one to three sentences but can be changed as you prefer.
     actions:
       - type: action
-        label: Let's talk
+        label: Chat
         url: /contact
         style: button
   - type: section_portfolio
