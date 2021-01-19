@@ -2,7 +2,7 @@
 title: Project Title 7
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+thumb_image: /images/aaa6ba56635533.Y3JvcCw4NjUsNjc3LDE2NCww.png
 thumb_image_alt: A black headphones on a yeallow background
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
